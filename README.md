@@ -4,7 +4,7 @@ Key files in the repo:
 
 BURP SUITE: A step-by-step approach to testing the application using Burp Suite.
 
-ZAP: A step-by-step approach to testing the application using Burp Suite.
+ZAP: A step-by-step approach to testing the application using ZAP.
 
 RESEARCH ON VAPT: This file contains all the information and resources I studied during the research phase before initiating the VAPT testing.
 
